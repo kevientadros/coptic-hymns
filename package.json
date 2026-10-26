@@ -1,0 +1,10 @@
+{
+  "name": "coptic-hymns-library",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate": "node scripts/migrate-from-weebly.mjs",
+    "build": "node build.mjs",
+    "preview": "node build.mjs && npx serve dist"
+  }
+}

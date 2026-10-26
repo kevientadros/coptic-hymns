@@ -1,0 +1,11 @@
+{
+  "title": "Liturgy",
+  "titleAr": "قداس",
+  "image": "/img/liturgy.png",
+  "links": [
+    {
+      "label": "Deacon Responses | مردات",
+      "url": "/deacon-responses/"
+    }
+  ]
+}
